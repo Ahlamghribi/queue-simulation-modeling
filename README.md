@@ -230,15 +230,6 @@ Le modèle M/M/1 est validé contre les formules théoriques :
 - Monotonie : métriques croissantes avec ρ
 - Limites : comportement correct quand ρ→1
 
-## 🤝 Contribution
-
-### Comment contribuer
-1. Fork le projet
-2. Créer une branche pour votre fonctionnalité
-3. Commiter vos changements
-4. Pousser vers la branche
-5. Ouvrir une Pull Request
-
 ### Améliorations suggérées
 - Ajout de nouveaux modèles (M/M/c, G/G/1)
 - Interface graphique interactive
