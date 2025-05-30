@@ -245,9 +245,3 @@ Le modèle M/M/1 est validé contre les formules théoriques :
 - Export des résultats en formats divers
 - Optimisation des performances de calcul
 - Tests unitaires automatisés
-
-## 🙏 Remerciements
-
-- Théorie des files d'attente : Kendall, Little, Pollaczek, Khinchine
-- Bibliothèques Python : NumPy, SciPy, Matplotlib
-- Communauté open source pour les retours et améliorations 
